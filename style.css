@@ -4,3 +4,17 @@
 {\*\expandedcolortbl;;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 }
+body {
+    background-color: #E5E5E5;
+  }
+  
+  h1 {
+    color: #FBFAF6;
+    font-family: Reem Kufi;
+    font-size: 86;
+  }
+  
+  p {
+    font-family: Reem Kuf;
+    font-size: 56;
+  }
